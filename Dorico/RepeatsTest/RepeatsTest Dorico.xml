@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <work>
+    <work-title>Repeats Test Dorico</work-title>
+  </work>
+  <movement-title>Partie 1</movement-title>
+  <identification>
+    <encoding>
+      <software>Dorico 4.3.20.1130</software>
+      <encoding-date>2023-04-28</encoding-date>
+    </encoding>
+  </identification>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Voice</part-name>
+    </score-part>
+  </part-list>
+  <part id="P1">
+    <measure number="1">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <fifths>0</fifths>
+          <mode>major</mode>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <staves>1</staves>
+        <clef number="1">
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <barline location="left">
+        <bar-style>heavy-light</bar-style>
+        <repeat direction="forward"/>
+      </barline>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="2">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        <repeat direction="backward"/>
+      </barline>
+    </measure>
+    <measure number="3">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="4">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <barline location="left">
+        <bar-style>heavy-light</bar-style>
+        <repeat direction="forward"/>
+      </barline>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        <repeat direction="backward"/>
+      </barline>
+    </measure>
+    <measure number="5">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="6">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <barline location="left">
+        <ending number="1" type="start">1.</ending>
+      </barline>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        <ending number="1" type="stop">1.</ending>
+        <repeat direction="backward"/>
+      </barline>
+    </measure>
+    <measure number="7">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <barline location="left">
+        <ending number="2" type="start">2.</ending>
+      </barline>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+      <barline location="right">
+        <ending number="2" type="discontinue">2.</ending>
+      </barline>
+    </measure>
+    <measure number="8">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <barline location="left">
+        <ending number="1" type="start">1.</ending>
+      </barline>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="9">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        <ending number="1" type="stop">1.</ending>
+        <repeat direction="backward"/>
+      </barline>
+    </measure>
+    <measure number="10">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <barline location="left">
+        <ending number="2" type="start">2.</ending>
+      </barline>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        <ending number="2" type="stop">2.</ending>
+        <repeat direction="backward"/>
+      </barline>
+    </measure>
+    <measure number="11">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <barline location="left">
+        <ending number="3" type="start">3.</ending>
+      </barline>
+      <sound dacapo="yes"/>
+      <direction directive="yes">
+        <direction-type>
+          <words font-style="normal" font-weight="bold" halign="right">D.C. al Fine</words>
+        </direction-type>
+        <staff>1</staff>
+      </direction>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+      <barline location="right">
+        <ending number="3" type="discontinue">3.</ending>
+      </barline>
+    </measure>
+    <measure number="12">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <sound dacapo="yes"/>
+      <direction directive="yes">
+        <direction-type>
+          <words font-style="normal" font-weight="bold" halign="right">D.C. al Coda</words>
+        </direction-type>
+        <staff>1</staff>
+      </direction>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="13">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <sound dacapo="yes"/>
+      <direction directive="yes">
+        <direction-type>
+          <words font-style="normal" font-weight="bold" halign="right">D.C.</words>
+        </direction-type>
+        <staff>1</staff>
+      </direction>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="14">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <sound dalsegno="1"/>
+      <direction directive="yes">
+        <direction-type>
+          <words font-style="normal" font-weight="bold" halign="right">D.S.</words>
+        </direction-type>
+        <staff>1</staff>
+      </direction>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="15">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <sound dalsegno="1"/>
+      <direction directive="yes">
+        <direction-type>
+          <words font-style="normal" font-weight="bold" halign="right">D.S. al Fine</words>
+        </direction-type>
+        <staff>1</staff>
+      </direction>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="16">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <sound dalsegno="1"/>
+      <direction directive="yes">
+        <direction-type>
+          <words font-style="normal" font-weight="bold" halign="right">D.S. al Coda</words>
+        </direction-type>
+        <staff>1</staff>
+      </direction>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="17">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <sound tocoda="1"/>
+      <direction directive="yes">
+        <direction-type>
+          <words font-style="normal" font-weight="bold" halign="right">To Coda</words>
+          <symbol font-style="normal" font-weight="bold">coda</symbol>
+        </direction-type>
+        <staff>1</staff>
+      </direction>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="18">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <sound segno="1"/>
+      <direction directive="yes">
+        <direction-type>
+          <segno/>
+        </direction-type>
+        <direction-type>
+          <symbol font-style="normal" font-weight="bold">segno</symbol>
+        </direction-type>
+        <staff>1</staff>
+      </direction>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="19">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <sound coda="1"/>
+      <direction directive="yes">
+        <direction-type>
+          <coda/>
+        </direction-type>
+        <direction-type>
+          <symbol font-style="normal" font-weight="bold">coda</symbol>
+        </direction-type>
+        <direction-type>
+          <words font-style="normal" font-weight="bold" halign="left">Coda</words>
+        </direction-type>
+        <staff>1</staff>
+      </direction>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+      <sound fine="yes"/>
+      <direction directive="yes">
+        <direction-type>
+          <words font-style="normal" font-weight="bold" halign="right">Fine</words>
+        </direction-type>
+        <staff>1</staff>
+      </direction>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+</score-partwise>

@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <work>
+    <work-title>Key Signatures Test Dorico</work-title>
+  </work>
+  <movement-title>Partie 1</movement-title>
+  <identification>
+    <encoding>
+      <software>Dorico 4.3.30.1132</software>
+      <encoding-date>2023-08-28</encoding-date>
+    </encoding>
+  </identification>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Voice</part-name>
+    </score-part>
+  </part-list>
+  <part id="P1">
+    <measure number="1">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <fifths>1</fifths>
+          <mode>major</mode>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <staves>1</staves>
+        <clef number="1">
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="2">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <fifths>2</fifths>
+          <mode>major</mode>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="3">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <fifths>3</fifths>
+          <mode>major</mode>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="4">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <fifths>4</fifths>
+          <mode>major</mode>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="5">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <fifths>5</fifths>
+          <mode>major</mode>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="6">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <fifths>6</fifths>
+          <mode>major</mode>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="7">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <fifths>7</fifths>
+          <mode>major</mode>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="8">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <fifths>-1</fifths>
+          <mode>major</mode>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="9">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <fifths>-2</fifths>
+          <mode>major</mode>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="10">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <fifths>-3</fifths>
+          <mode>major</mode>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="11">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <fifths>-4</fifths>
+          <mode>major</mode>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="12">
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="13">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <fifths>-5</fifths>
+          <mode>major</mode>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="14">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <fifths>-6</fifths>
+          <mode>major</mode>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="15">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <fifths>-7</fifths>
+          <mode>major</mode>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <measure number="16">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <key-step>G</key-step>
+          <key-alter>0.5</key-alter>
+          <key-accidental>quarter-sharp</key-accidental>
+          <key-step>E</key-step>
+          <key-alter>-0.5</key-alter>
+          <key-accidental>quarter-flat</key-accidental>
+          <key-step>F</key-step>
+          <key-alter>0.5</key-alter>
+          <key-accidental>quarter-sharp</key-accidental>
+          <key-step>D</key-step>
+          <key-alter>-0.5</key-alter>
+          <key-accidental>quarter-flat</key-accidental>
+          <key-step>C</key-step>
+          <key-alter>0.5</key-alter>
+          <key-accidental>quarter-sharp</key-accidental>
+          <key-step>B</key-step>
+          <key-alter>-0.5</key-alter>
+          <key-accidental>quarter-flat</key-accidental>
+          <key-step>A</key-step>
+          <key-alter>0.5</key-alter>
+          <key-accidental>quarter-sharp</key-accidental>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <measure number="17">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <key-step>G</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>F</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>E</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>D</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>C</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>B</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>A</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="18">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <key-step>G</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>F</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>E</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>D</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>C</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <measure number="19">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <key-step>D</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>E</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>F</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>G</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>A</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>B</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="20">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <key-step>C</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>D</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>E</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>F</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>G</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>A</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>B</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="21">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <key-step>C</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>D</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>E</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>F</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <measure number="22">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <key-step>C</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>D</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>E</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>F</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <measure number="23">
+      <attributes>
+        <divisions>4</divisions>
+        <key number="1">
+          <key-step>C</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+          <key-step>D</key-step>
+          <key-alter>0</key-alter>
+          <key-accidental>natural</key-accidental>
+        </key>
+      </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+</score-partwise>

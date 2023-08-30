@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <work>
+    <work-title>Untitled score</work-title>
+    </work>
+  <identification>
+    <creator type="composer">Composer / arranger</creator>
+    <encoding>
+      <software>MuseScore 4.1.1</software>
+      <encoding-date>2023-08-29</encoding-date>
+      <supports element="accidental" type="yes"/>
+      <supports element="beam" type="yes"/>
+      <supports element="print" attribute="new-page" type="no"/>
+      <supports element="print" attribute="new-system" type="no"/>
+      <supports element="stem" type="yes"/>
+      </encoding>
+    </identification>
+  <defaults>
+    <scaling>
+      <millimeters>6.99912</millimeters>
+      <tenths>40</tenths>
+      </scaling>
+    <page-layout>
+      <page-height>1696.93</page-height>
+      <page-width>1200.48</page-width>
+      <page-margins type="even">
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
+        </page-margins>
+      <page-margins type="odd">
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
+        </page-margins>
+      </page-layout>
+    <word-font font-family="Edwin" font-size="10"/>
+    <lyric-font font-family="Edwin" font-size="10"/>
+    </defaults>
+  <credit page="1">
+    <credit-type>title</credit-type>
+    <credit-words default-x="600.241" default-y="1611.21" justify="center" valign="top" font-size="22">Colour Test</credit-words>
+    </credit>
+  <part-list>
+    <score-part id="P1">
+      <part-name print-object="no">Voice</part-name>
+      <score-instrument id="P1-I1">
+        <instrument-name>Voice</instrument-name>
+        <instrument-sound>voice.vocals</instrument-sound>
+        </score-instrument>
+      <midi-device id="P1-I1" port="1"></midi-device>
+      <midi-instrument id="P1-I1">
+        <midi-channel>1</midi-channel>
+        <midi-program>53</midi-program>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    </part-list>
+  <part id="P1">
+    <measure number="1" width="213.42">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>50.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <top-system-distance>170.00</top-system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <divisions>16</divisions>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <time color="#009051">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+          </time>
+        <clef color="#942193">
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      <direction placement="below">
+        <direction-type>
+          <wedge type="crescendo" number="1" default-y="-64.35"/>
+          </direction-type>
+        </direction>
+      <note default-x="73.72" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>64</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead color="#FF2600">normal</notehead>
+        <notations>
+          <slur color="#941751" type="start" placement="above" number="1"/>
+          <articulations>
+            <strong-accent type="up"/>
+            </articulations>
+          </notations>
+        </note>
+      <direction placement="below">
+        <direction-type>
+          <wedge type="stop" number="1"/>
+          </direction-type>
+        </direction>
+      </measure>
+    <measure number="2" width="233.58">
+      <direction placement="below">
+        <direction-type>
+          <dynamics default-x="2.88" default-y="-44.35" relative-y="-25.00">
+            <ff/>
+            </dynamics>
+          </direction-type>
+        <sound dynamics="124.44"/>
+        </direction>
+      <note default-x="18.76" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+          </pitch>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+        <notehead color="#009193">normal</notehead>
+        <notations>
+          <slur type="stop" number="1"/>
+          <ornaments>
+            <inverted-mordent/>
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="79.62" default-y="-20.00">
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="140.48" default-y="-20.00">
+        <rest/>
+        <duration>32</duration>
+        <voice>1</voice>
+        <type>half</type>
+        </note>
+      </measure>
+    <measure number="3" width="299.02">
+      <note color="#8EFA00" default-x="13.00" default-y="-20.00">
+        <rest/>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>64th</type>
+        </note>
+      <note color="#0433FF" default-x="34.92" default-y="-20.00">
+        <rest/>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>64th</type>
+        </note>
+      <note color="#FFFB00" default-x="56.84" default-y="-20.00">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>32nd</type>
+        </note>
+      <note color="#941100" default-x="77.44" default-y="-20.00">
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        </note>
+      <note color="#929000" default-x="104.49" default-y="-20.00">
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        </note>
+      <note color="#73FDFF" default-x="145.06" default-y="-20.00">
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note color="#FFD479" default-x="205.92" default-y="-20.00">
+        <rest/>
+        <duration>32</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <notations>
+          <fermata type="upright" relative-y="5.00" color="#FF2F92"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="4" width="233.02">
+      <note color="#EBEBEB" default-x="13.00" default-y="-20.00">
+        <rest/>
+        <duration>24</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+        </note>
+      <note default-x="90.15" default-y="-20.00">
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        </note>
+      <note default-x="130.73" default-y="-20.00">
+        <rest/>
+        <duration>32</duration>
+        <voice>1</voice>
+        <type>half</type>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
+    </part>
+  </score-partwise>
