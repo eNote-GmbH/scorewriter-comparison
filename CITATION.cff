@@ -20,6 +20,9 @@ authors:
   - given-names: Gerrit
     family-names: Bogdahn
     affiliation: Enote GmbH
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.8305206
 repository-code: 'https://github.com/eNote-GmbH/scorewriter-comparison'
 abstract: >-
   We have compared four popular music notation programs in
