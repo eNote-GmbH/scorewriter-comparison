@@ -11,12 +11,13 @@ authors:
     affiliation: Enote GmbH
     orcid: 'https://orcid.org/0000-0003-1898-2543'
   - given-names: Kaspar
-    orcid: 'https://orcid.org/0009-0005-9256-5870'
     family-names: Querfurth
     affiliation: Enote GmbH
+    orcid: 'https://orcid.org/0009-0005-9256-5870'
   - given-names: Gerrit
     family-names: Bogdahn
     affiliation: Enote GmbH
+    orcid: 'https://orcid.org/0009-0006-4637-830X'
 identifiers:
   - type: doi
     value: 10.5281/zenodo.8305206
